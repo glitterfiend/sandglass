@@ -1,0 +1,19 @@
+{
+  "name": "Sandglass Focus Timer",
+  "short_name": "Sandglass",
+  "description": "A quiet, distraction-free focus timer that works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
